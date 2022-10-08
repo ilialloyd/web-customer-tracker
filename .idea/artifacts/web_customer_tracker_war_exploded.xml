@@ -12,7 +12,6 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="web-customer-tracker" />
-          <element id="jpa-descriptors" facet="web-customer-tracker/jpa/JPA" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.hibernate:hibernate-core:5.6.1.Final" />
@@ -42,8 +41,6 @@
           <element id="library" level="project" name="Maven: org.eclipse.angus:angus-activation:1.0.0" />
           <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.22" />
           <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
-          <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
-          <element id="library" level="project" name="Spring MVC-5.2.3.RELEASE" />
         </element>
       </element>
       <element id="directory" name="META-INF">

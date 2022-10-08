@@ -9,7 +9,6 @@
     </properties>
     <root id="archive" name="TrackerApp-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="web-customer-tracker:war exploded" />
-      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
     </root>
   </artifact>
 </component>
